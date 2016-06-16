@@ -1,0 +1,35 @@
+body {
+	background-image: url("../images/wutangwallpaper2.jpg");
+	background-position: no-repeat;
+	font-family: "Iowan Old Style";
+}
+
+@font-face {
+    font-family: Bard;
+    src: url("../fonts/bard.TTF");
+}
+
+@font-face {
+    font-family: "Iowan Old Style";
+    src: url("../fonts/Iowan Old Style.ttc");
+}
+
+#titleDiv {
+	background-color: rgba(0, 0, 0, 0);
+	padding-left: 0px;
+}
+
+#instructDiv {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+#gameDiv {
+	max-width: 350px;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	font-family: Bard;
+	font-weight: 900;
+	line-height: 20%;
+}
